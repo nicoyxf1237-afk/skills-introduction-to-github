@@ -1,16 +1,12 @@
 # Introduction to GitHub
+## 📌 项目简介
+这是我完成GitHub官方入门课程的练习仓库，学习了基础的仓库创建、提交、分支、PR合并等操作。
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+## 📝 学习内容
+- 学会了创建仓库、提交代码/修改
+- 掌握了分支管理和Pull Request合并的基础流程
+- 了解了GitHub的基础协作逻辑
 
-Hey nicoyxf1237-afk!
-
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
-
-Remember, it's self-paced so feel free to take a break! ☕️
-
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/nicoyxf1237-afk/skills-introduction-to-github/issues/3)
-
----
-
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
+## ✨ 后续计划
+- 继续学习Git命令行操作
+- 尝试创建自己的第一个小项目
